@@ -6,7 +6,7 @@ title: Brigham Young's Resume
 
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
+<a href="bea21020@byui.edu">Email</a>
 | <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
 | <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
 | <a href="https://github.com/byuids-resumes">GitHub</a>
@@ -57,7 +57,7 @@ __Hale Center Theater__, Sandy, UT
 ### Accounts Manager
 
 `November 2016 – November 2019`
-__Prize Points__
+__Prize Points__, West Jordan, UT
 
 - Recorded and initiated 1700+ new accounts.
 - Managed and resolved incorrect data to ensure smooth interactions with company services.
@@ -68,7 +68,8 @@ __Prize Points__
 ### Full-time Volunteer Representative
 
 `December 2019 – November 2021`
-__The Church of Jesus Christ of Latter-Day Saints__, Yakima, WA & San Pablo, Philippines
+__The Church of Jesus Christ of Latter-Day Saints__,
+Yakima, WA & San Pablo, Philippines
 
 - Trained 4 new volunteers in effective work ethic and problem-solving skills.
 - Adapted to unique circumstances and people allowing for us to resolve concerns and genuine interactions.
