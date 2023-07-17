@@ -17,7 +17,8 @@ title: Brigham Young's Resume
 ## Education
 
 `Expected 2025`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__<br>
+Rexburg, ID
 
 - 3.7 Major GPA
 - Data Science Major with a Minor in Business Analytics and Statistics
@@ -29,7 +30,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Statitician Tutor
 
 `January 2023 - Present`
-__Brigham Young University - Idaho__, Rexburg, ID
+__Brigham Young University - Idaho__<br>
+Rexburg, ID
 
 - Provided 100+ personalized one-on-one tutoring appointments to students. 
 - Conducted research on statistical topics that required further clarification prior to tutoring sessions, ensuring a comprehensive understanding of the topic allowing me to offer accurate and reliable guidance to students.
@@ -39,7 +41,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Package Carrier
 
 `April 2027 - June 2027`
-__United Parcel Service__, West Jordan, UT
+__United Parcel Service__ <br>
+West Jordan, UT
 
 - Delivered over 400 packages a day in a timely manner saving the company on average half an hour each day.
 - Organized packages to provide timely, correct deliveries for enhanced customer satisfaction.
@@ -48,7 +51,8 @@ __United Parcel Service__, West Jordan, UT
 ### Hosting Staff
 
 `June 2017 – August 2019`
-__Hale Center Theater__, Sandy, UT
+__Hale Center Theater__<br>
+Sandy, UT
 
 - Contributed to company brand and goal of sustaining a google review of 4.9 through genuine interactions with each customer.
 - Settled customer complaints by prioritizing their satisfaction and continued business.
@@ -57,7 +61,8 @@ __Hale Center Theater__, Sandy, UT
 ### Accounts Manager
 
 `November 2016 – November 2019`
-__Prize Points__, West Jordan, UT
+__Prize Points__<br>
+West Jordan, UT
 
 - Recorded and initiated 1700+ new accounts.
 - Managed and resolved incorrect data to ensure smooth interactions with company services.
@@ -81,7 +86,8 @@ Yakima, WA & San Pablo, Philippines
 ### Eagle Scout
 
 `June 2012 – June 2019`
-__Boy Scouts of America__, West Jordan, UT
+__Boy Scouts of America__<br>
+West Jordan, UT
 
 - Pledged to live high morals, maintain strong values, and be an active citizen in the community.
 - Provided hundreds of hours in community service to strengthen the community.
