@@ -68,7 +68,7 @@ __Prize Points__, West Jordan, UT
 ### Full-time Volunteer Representative
 
 `December 2019 – November 2021`
-__The Church of Jesus Christ of Latter-Day Saints__,
+__The Church of Jesus Christ of Latter-Day Saints__,<br>
 Yakima, WA & San Pablo, Philippines
 
 - Trained 4 new volunteers in effective work ethic and problem-solving skills.
