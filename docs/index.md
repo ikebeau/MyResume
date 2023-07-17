@@ -2,8 +2,8 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Isaac Beaumont
+
 
 <div id="webaddress">
 <a href="datascience@byui.edu">datascience@byui.edu</a>
@@ -16,74 +16,80 @@ The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
+`Expected 2025`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.7 Major GPA
+- Data Science Major with a Minor in Business Analytics and Statistics
+- Skills: R, SQL, Python, Microsoft Office, Power BI, Tableau, Windows, and Linux
+- Societies: Data Science Society
+
+## Work Experience
+
+### Statitician Tutor
+
+`January 2023 - Present`
+__Brigham Young University - Idaho__, Rexburg, ID
+
+- Provided 100+ personalized one-on-one tutoring appointments to students. 
+- Conducted research on statistical topics that required further clarification prior to tutoring sessions, ensuring a comprehensive understanding of the topic allowing me to offer accurate and reliable guidance to students.
+- Demonstrated the use of Excel and R as statistical tools, teaching students how to apply coding, functions, and formulas to analyze and visualize data sets, and effectively communicate statistical findings.
 
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
+### Package Carrier
 
 `April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+__United Parcel Service__, West Jordan, UT
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+- Delivered over 400 packages a day in a timely manner saving the company on average half an hour each day.
+- Organized packages to provide timely, correct deliveries for enhanced customer satisfaction.
+- Certified safe arrival of packages to correct location.
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+### Hosting Staff
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`June 2017 – August 2019`
+__Hale Center Theater__, Sandy, UT
 
-### Data Science Consulting Team
+- Contributed to company brand and goal of sustaining a google review of 4.9 through genuine interactions with each customer.
+- Settled customer complaints by prioritizing their satisfaction and continued business.
+- Provided a complete and accurate record of inventory and income to correctly report revenue.
 
-`January 2027 - April 2027`
-__Imagine Learning__
+### Accounts Manager
 
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
+`November 2016 – November 2019`
+__Prize Points__
 
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
+- Recorded and initiated 1700+ new accounts.
+- Managed and resolved incorrect data to ensure smooth interactions with company services.
+- Maintained client relationships, fulfilled client orders, and corrected technical issues for 6 major retail clients in Salt Lake County.
 
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+## Volunteer Service History
 
+### Full-time Volunteer Representative
 
-## Service and Work History
+`December 2019 – November 2021`
+__The Church of Jesus Christ of Latter-Day Saints__, Yakima, WA & San Pablo, Philippines
 
-`2025-2027`
-__Math Tutor__, LDSBC
+- Trained 4 new volunteers in effective work ethic and problem-solving skills.
+- Adapted to unique circumstances and people allowing for us to resolve concerns and genuine interactions.
+- Exemplified a grit mindset throughout my volunteer experience leading to be successful in my assignments.
+- Led daily planning meetings through effective communication to increase productivity and situational awareness in our efforts. 
 
+## Achievements
 
-`2023-2025`
-__Service Missionary__, South Africa
+### Eagle Scout
 
+`June 2012 – June 2019`
+__Boy Scouts of America__, West Jordan, UT
+
+- Pledged to live high morals, maintain strong values, and be an active citizen in the community.
+- Provided hundreds of hours in community service to strengthen the community.
+- Led and conducted meetings and planning sessions for 8 scouts weekly.
+- Planned and counseled as a members of the Order of the Arrow in helping to create a better community 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 12, 2023 -->
 
 
