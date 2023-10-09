@@ -25,7 +25,31 @@ Rexburg, ID
 - Skills: R, SQL, Python, Microsoft Office, Power BI, Tableau, Windows, and Linux
 - Societies: Data Science Society
 
+## Experiential Learning Projects
+
+### Lead Data Scientist
+
+`September 2023 - Present`
+__Data Science Society | BYU-I__<br>
+Rexburg, ID
+
+-	Led 10 students in efforts to predict future population for Rexburg, ID
+-	Consulted with members of the city council to collect appropriate data useful to the project and to find accurate results.
+-	Implemented statistical, arithmetic, and machine learning models to achieve and confirm the meaningfulness of our results.
+
+
 ## Work Experience
+
+### Power BI & Tableau Analyst Instructional Aid
+
+`September 2023 - Present`
+__Brigham Young University - Idaho__<br>
+Rexburg, ID
+
+-	Oversaw the performance of 50+ students in proper data visualization with Power BI & Tableau.
+-	Redesigned course material with the supervision of the teacher increasing retention of course material.
+-	Assessed and improved individual project presentations by providing constructive feedback to enhance clarity and accuracy
+
 
 ### Statitician Tutor
 
